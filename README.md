@@ -36,10 +36,10 @@
 
 ## 🌐 Connect With Me and Let's Talk About Your Next Project
 <p>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:israeloloruntoba3@gmail.com">
     <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/israel-oloruntoba-0b383537a/)">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
@@ -48,7 +48,7 @@
 
 ## 📘 Most Used Languages
 <p align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=donut&theme=tokyonight" />
 </p>
+
 
