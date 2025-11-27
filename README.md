@@ -48,7 +48,7 @@
 
 ## 📘 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentlecoder1&layout=donut&theme=tokyonight" />
 </p>
 
 
